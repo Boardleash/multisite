@@ -1,4 +1,4 @@
-# :fish:Sea of Fish:fish:
+# :fish:Demersal:fish:
 
 Container, simple front-end and back-end web development and database management pet project of mine.  This utilizes Podman to pull an Apache and MySQL iimage down and load them with the appropriate files so that a simple website can be utilized that interacts with a database.  The website has a homepage with stats on various types of tinned seafood that have been connsumed.  All data is just from my contributions as I have not made anything public facing.
 
